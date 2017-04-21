@@ -1,0 +1,7 @@
+[Activity]
+name = Elegir
+activity_version = 2
+bundle_id = org.sugarlabs.Elegir
+exec = sugar-activity activity.ElegirActivity
+icon = activity-elegir
+license = GPLv2+

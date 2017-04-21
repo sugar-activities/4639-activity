@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/aviram/src/blogicons/small"
+   sodipodi:docname="opml.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50"
+     guidetolerance="10"
+     objecttolerance="50"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9707031"
+     inkscape:cx="128"
+     inkscape:cy="121.48341"
+     inkscape:document-units="px"
+     inkscape:current-layer="icons"
+     inkscape:window-width="1024"
+     inkscape:window-height="693"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-bbox="false"
+     inkscape:object-points="false"
+     inkscape:object-nodes="false"
+     inkscape:guide-points="false"
+     width="256px"
+     height="256px"
+     showgrid="false"
+     inkscape:grid-bbox="false"
+     inkscape:object-paths="true" />
+  <defs
+     id="gradients">
+    <linearGradient
+       id="outerGradient"
+       x1="18"
+       y1="18"
+       x2="238"
+       y2="238"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#254fa1;stop-opacity:0.94117647;"
+         offset="0"
+         id="stop2196" />
+      <stop
+         style="stop-color:#2492a1;stop-opacity:1;"
+         offset="1"
+         id="stop2198" />
+    </linearGradient>
+    <linearGradient
+       id="innerGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="128"
+       x2="128"
+       y1="32"
+       y2="224">
+      <stop
+         offset="0"
+         id="feedGStart"
+         style="stop-color:#2492a1;stop-opacity:1;" />
+      <stop
+         offset="1"
+         id="feedGEnd"
+         style="stop-color:#2359a1;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="trackbackGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="25"
+       x2="230"
+       y1="25"
+       y2="230">
+      <stop
+         style="stop-color:#63a304;stop-opacity:1"
+         offset="0"
+         id="trackbackGStart" />
+      <stop
+         style="stop-color:#8ece1f;stop-opacity:1"
+         offset="0.5"
+         id="trackbackGMid" />
+      <stop
+         style="stop-color:#63a304;stop-opacity:1"
+         offset="1"
+         id="trackbackGEnd" />
+    </linearGradient>
+    <radialGradient
+       id="midGradient"
+       cx="128"
+       cy="70"
+       r="112"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3194" />
+      <stop
+         style="stop-color:#52b2c0;stop-opacity:1;"
+         offset="1"
+         id="stop3196" />
+    </radialGradient>
+  </defs>
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/2.5/" />
+        <dc:title>Blog Icons</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Avi Alkalay</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>These are the Blog Icons, initially based on the FeedIcons.com, but simplified (on XML level) and new icons created.</dc:description>
+        <dc:source>http://avi.alkalay.net</dc:source>
+        <dc:relation />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:prohibits
+           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="icons"
+     inkscape:label="icons"
+     style="display:inline">
+    <g
+       id="opml">
+      <rect
+         height="256"
+         x="0"
+         y="0"
+         ry="42"
+         rx="42"
+         width="256"
+         id="outer"
+         style="fill:url(#outerGradient)" />
+      <rect
+         height="224"
+         x="16"
+         y="16"
+         ry="36.75"
+         rx="36.75"
+         width="224"
+         id="mid"
+         style="fill:url(#midGradient)" />
+      <rect
+         height="192"
+         x="32"
+         y="32"
+         ry="31.5"
+         rx="31.5"
+         width="192"
+         id="inner"
+         style="fill:url(#innerGradient)" />
+      <circle
+         style="fill:#ffffff"
+         id="opmlCenter"
+         r="24"
+         sodipodi:cy="128"
+         sodipodi:cx="128"
+         cy="128"
+         cx="128"
+         sodipodi:rx="24"
+         sodipodi:ry="24" />
+      <circle
+         sodipodi:ry="79"
+         sodipodi:rx="79"
+         cx="128"
+         cy="128"
+         sodipodi:cx="128"
+         sodipodi:cy="128"
+         r="79"
+         id="opmlCast"
+         style="fill:none;stroke:#ffffff;stroke-width:28" />
+    </g>
+  </g>
+</svg>
